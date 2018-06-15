@@ -1,5 +1,5 @@
 {
-    "name": "behat/chained-steps-extension",
+    "name": "lesha888/chained-steps-extension",
     "type": "behat-extension",
     "description": "Chained steps support for behat v3",
     "keywords": ["test", "cleanup", "human-readable"],
